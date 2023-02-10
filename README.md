@@ -12,7 +12,7 @@ A sample output when you begin the session
   
 # Installation
   
-* Paste the following code to your terminal of choice in whichever directory you want: `git clone https://github.com/hennastone/multiclient-chatroom-in-c`.
+* Paste the following code to your terminal of choice in whichever directory you want: `git clone https://github.com/SenaSerefoglu/Multiclient-Chatroom.git`.
 * Compile the modules with -lpthread option.
   
 That's it, run the server.c first and then run the client.c to connect to the server.
